@@ -1,0 +1,32 @@
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\bin\Debug\mega.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\bin\Debug\mega.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\bin\Debug\mega.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\bin\Debug\MegaApiClient.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\bin\Debug\MegaApiClient.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.dialogosubir.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.Form1.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.Resources.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2015\Projects\mega\mega\obj\Debug\mega.pdb
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\bin\Debug\mega.exe
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\bin\Debug\mega.pdb
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\bin\Debug\mega.xml
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\bin\Debug\MegaApiClient.dll
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\bin\Debug\Newtonsoft.Json.dll
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\bin\Debug\MegaApiClient.xml
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\bin\Debug\Newtonsoft.Json.xml
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.vbprojAssemblyReference.cache
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.dialogosubir.resources
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.Form1.resources
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.Resources.resources
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.vbproj.GenerateResource.cache
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.vbproj.CoreCompileInputs.cache
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.vbproj.CopyComplete
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.exe
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.xml
+C:\Users\formacion\Downloads\subir_a_mega\mega\mega\obj\Debug\mega.pdb
